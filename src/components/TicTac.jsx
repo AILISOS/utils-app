@@ -1,5 +1,6 @@
 import '../App.css';
 import { useState } from 'react';
+import Calculator from './Calculator';
 
 function Square({value, onSquareClick}) {
   return (
@@ -48,3 +49,4 @@ export default function Board() {
     </>
   );
 }
+

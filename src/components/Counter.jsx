@@ -2,7 +2,7 @@ import React from 'react';
 import { useState } from 'react';
 
 
-export default function Couter() {
+export default function Counter() {
     const [increment, setIncrement] = useState(0);
     return(
     <div className='container'>
