@@ -1,3 +1,11 @@
+This repository is created for personal self learning purposes.
+It covers basic topics in JavaScript in React fromwork.
+Each components has its own small fun functionalities and covers basic topics in web development
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
